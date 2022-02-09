@@ -1,12 +1,12 @@
 {
   "name": "wow-shell",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "shell command, it will be resolved when something is hit, and support the output of colored logs",
   "keywords": [
     "shell",
     "exec",
     "spawn",
-    "wowShell",
+    "pShell",
     "promise",
     "monorepo",
     "dev",
