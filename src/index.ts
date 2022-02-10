@@ -53,7 +53,7 @@ function shell<T extends string | void>(
         const e =
           errData instanceof Error
             ? errData
-            : Error(errData || "unknown shell error, note the console output");
+            : Error(errData || "unknown shell error, please note the console output");
         return reject(e);
       }
 
